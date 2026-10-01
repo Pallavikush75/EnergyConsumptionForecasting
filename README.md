@@ -65,17 +65,19 @@ Energy_Forecasting_Project/
 ## 🖥️ Application Screenshots
 
 ### 🏠 Dashboard
+
 <p align="center">
   <img src="screenshots/dashboard.png" width="900">
 </p>
 
 ### 📊 Forecast Result
+
 <p align="center">
   <img src="screenshots/forecast.png" width="900">
 </p>
 
 ### 📈 Analytics
+
 <p align="center">
   <img src="screenshots/analytics.png" width="900">
 </p>
-
