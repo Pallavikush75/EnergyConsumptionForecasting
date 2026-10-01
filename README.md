@@ -67,13 +67,13 @@ Energy_Forecasting_Project/
 ### 🏠 Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="900">
+  <img src="screenshots/forecast.png" width="900">
 </p>
 
 ### 📊 Forecast Result
 
 <p align="center">
-  <img src="screenshots/forecast.png" width="900">
+  <img src="screenshots/dashboard.png" width="900">
 </p>
 
 ### 📈 Analytics
