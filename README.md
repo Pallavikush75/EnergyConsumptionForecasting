@@ -61,3 +61,17 @@ Energy_Forecasting_Project/
 ├── .gitignore
 └── README.md
 ```
+
+## 🖥️ Application Screenshots
+
+### 🏠 Dashboard
+
+![Energy AI Dashboard](screenshots/dashboard.png)
+
+### 📊 Forecast Result
+
+![Energy Consumption Forecast](screenshots/forecast.png)
+
+### 📈 Analytics
+
+![Model Analytics](screenshots/analytics.png)
