@@ -65,13 +65,17 @@ Energy_Forecasting_Project/
 ## 🖥️ Application Screenshots
 
 ### 🏠 Dashboard
-
-![Energy AI Dashboard](screenshots/dashboard.png)
+<p align="center">
+  <img src="screenshots/dashboard.png" width="900">
+</p>
 
 ### 📊 Forecast Result
-
-![Energy Consumption Forecast](screenshots/forecast.png)
+<p align="center">
+  <img src="screenshots/forecast.png" width="900">
+</p>
 
 ### 📈 Analytics
+<p align="center">
+  <img src="screenshots/analytics.png" width="900">
+</p>
 
-![Model Analytics](screenshots/analytics.png)
